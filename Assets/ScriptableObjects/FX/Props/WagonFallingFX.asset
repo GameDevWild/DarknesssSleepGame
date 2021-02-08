@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9db4e59af2d60964aae4f6fae33325ce, type: 3}
+  m_Name: WagonFallingFX
+  m_EditorClassIdentifier: 
+  soundType: 1
+  clip: {fileID: 8300000, guid: 77f88b380071aa54686c5b534d4f2dfe, type: 3}
+  volume: 1
+  loop: 0
